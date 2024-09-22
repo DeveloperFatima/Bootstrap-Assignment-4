@@ -1,0 +1,389 @@
+#container{
+    border-bottom: 1px solid black;
+}
+.image{
+    height: 3vh;
+    position: relative;
+    left: 90px;
+}
+.text-start{
+    position: relative;
+    left: -120px;
+    top: 7px;
+}
+.images{
+    height: 3vh;
+    position: relative;
+    left: -200px;
+}
+#start{
+    position: relative;
+    left: -415px;
+    top: 7px;
+}
+.ul{
+    display: flex;
+    list-style: none;
+    position: relative;
+    right: 100px;
+    top: 5px;
+}
+#nav{
+    position: absolute;
+    left: 700px;
+    transition: 0.5s;
+}
+#nav:hover{
+    color: royalblue;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.nav-item{
+    margin-left: 20px;
+    transition: 0.5s;
+}
+.nav-item:active{
+    color: royalblue;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.li{
+    margin-left: 20px;
+    transition: 0.5s;
+}
+#space{
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
+}
+#space:hover{
+    color: royalblue;
+    cursor: pointer;
+    transition: 0.5s;
+}
+#spaces{
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
+}
+#spaces:hover{
+    color: royalblue;
+    cursor: pointer;
+    transition: 0.5s;
+}
+li:hover{
+    color: royalblue;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.boot{
+    position: relative;
+    top: -400px;
+    margin-left: 100px;
+    font-family: "Poppins", sans-serif;
+}
+.h6{
+    position: relative;
+    top: -380px;
+    margin-left: 100px;
+    font-family: "Poppins", sans-serif;
+    animation-duration: 2s;
+}
+#btn{
+    position: relative;
+    top: -360px;
+    left: 100px;
+    transition: 0.5s;
+    background-color: rgb(0, 64,255);
+}
+#btn:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    transition: 0.5s;
+}
+#btns{
+    position: relative;
+    top: -360px;
+    left: 120px;
+    transition: 0.5s;
+}
+#btns:hover{
+    background-color: rgb(0, 64, 255);
+    color: white;
+    cursor: pointer;
+    transition: 0.5s;
+}
+#max{
+    position: relative;
+    top: -220px;
+    height: 45vh;
+}
+.mains{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 40px;
+}
+.layer{
+    height: 3vh;
+    position: relative;
+    top: 8px;
+    left: -10px;
+}
+.layers{
+    height: 3vh;
+    position: relative;
+    top: 8px;
+    left: -6px;
+}
+#card-t{
+    position: relative;
+    left: 25px;
+    top: -13px;
+    font-family: "Poppins", sans-serif;
+}
+.card-text{
+    font-family: "Poppins", sans-serif;
+}
+.card{
+    animation-delay: 2s;
+}
+.boots{
+    font-family: "Poppins", sans-serif;
+    position: relative;
+    top: -100px;
+    margin-left: 100px;
+}
+.h5{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    position: relative;
+    margin-left: 500px;
+    top: -170px;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: -80px;
+}
+#img-1{
+    height: 8vh;
+    width: 50px;
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+#cards{
+    position: relative;
+    left: 10px;
+    font-family: "Poppins", sans-serif;
+}
+#tits{
+    position: relative;
+    left: 10px;
+}
+#img-2{
+    height: 8vh;
+    width: 40px;
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+#link:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.second{
+    position: relative;
+    margin-left: 850px;
+    top: -500px;
+    font-family: "Poppins", sans-serif;
+}
+#give{
+    font-family: "Poppins", sans-serif;
+    position: relative;
+    margin-left: 850px;
+    top: -470px;
+}
+#gives{
+    font-family: "Poppins", sans-serif;
+    position: relative;
+    margin-left: 850px;
+    top: -480px;
+}
+#dark{
+    position: relative;
+    margin-left: 850px;
+    top: -450px;
+    font-family: "Poppins", sans-serif;
+}
+.bootss{
+    font-family: "Poppins", sans-serif;
+    position: relative;
+    top: -200px;
+    margin-left: 100px;
+}
+#main{
+    position: relative;
+    top: -270px;
+}
+.submain{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: -150px;
+}
+#adam{
+    font-family: "Poppins", sans-serif;
+}
+#body{
+    height: 60vh;
+}
+#seven{
+    position: relative;
+    top: -24px;
+}
+.uls{
+    display: flex;
+    list-style: none;
+    position: relative;
+    right: 100px;
+    top: -62px;
+    margin-left: 220px;
+}
+.lis{
+    transition: 0.5s;
+    margin-left: 10px;
+}
+.boott{
+    font-family: "Poppins", sans-serif;
+    position: relative;
+    top: -40px;
+    margin-left: 100px;
+}
+.sub{
+    position: absolute;
+    width: 90%;
+    left: 50px;
+}
+#width{
+    width: 48% !important;
+}
+@media only screen and (max-width: 500px){
+    #container{
+        display: none;
+    }
+    .boot{
+        margin-top: 130px;
+        font-size: 20px;
+        margin-left: 20px;
+    }
+    #fluid{
+        position: relative;
+        height: 60vh;
+    }
+    #fade{
+        font-size: small;
+        position: relative;
+        right: 80px;
+    }
+    #btn{
+        position: relative;
+        left: 15px;
+    }
+    #btns{
+        position: relative;
+        left: 20px;
+    }
+}
+@media only screen and (max-width: 500px){
+    #max{
+        position: relative;
+        top: -320px;
+        height: 115vh;
+    }
+    .mains{
+        flex-direction: column;
+        align-items: center;
+        position: relative;
+        top: -10px;
+    }
+    .card{
+        margin-top: 15px;
+    }
+}
+@media only screen and (max-width: 500px){
+    .spin{
+        display: none;
+    }
+}
+@media only screen and (max-width: 500px){
+    .h5{
+        position: relative;
+        right: 440px;
+        left: -320px;
+        top: -90px;
+        text-align: center;
+    }
+    .boots{
+        position: relative;
+        margin-top: -120px;
+        left: -70px;
+        text-align: center;
+    }
+    .spann{
+        display: none;
+    }
+}
+@media only screen and (max-width: 800px){
+    .main{
+        display: none;
+    }
+}
+@media only screen and (max-width: 800px){
+    .dis{
+        display: none;
+        position: relative;
+        top: 200px;
+    }
+    .second{
+        display: none;
+    }
+    #gives{
+        display: none;
+    }
+    #give{
+        display: none;
+    }
+    #dark{
+        display: none;
+    }
+    .bootss{
+        display: none;
+    }
+    #main{
+        display: none;
+    }
+    .uls{
+        display: none;
+    }
+    .submain{
+        flex-direction: column;
+        position: relative;
+        top: 30px;
+        align-items: center;
+    }
+    .card-body{
+        margin-top: -40px;
+    }
+    .boott{
+        position: relative;
+        top: 90px;
+    }
+    .sub{
+        position: relative;
+        top: 100px;
+    }
+}
